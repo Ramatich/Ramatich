@@ -4,7 +4,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>[!
+    <i>
         I'm Peter.<br>
         Full Stack Developer & UI/UX Designer <br>
         Currently learning to walk in ML/DL without falling on my bottom.<br>
