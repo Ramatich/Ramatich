@@ -8,7 +8,7 @@
         I'm Peter.<br>
         Full Stack Developer & UI/UX Designer <br>
         Currently learning to walk in ML/DL without falling on my bottom.<br>
-        MIT License
+        
     </i><br>
     <a href="https://www.linkedin.com/in/peter-o-maturwe-ab860020a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
