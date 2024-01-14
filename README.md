@@ -6,10 +6,9 @@
     <b>🎤 Karaoke coder: I sing my code to make it run faster. Spoiler alert: it doesn't work, but it makes debugging more entertaining!</b><br><br>
 
     <i>
-        I'm Peter.<br>
+I'm Peter.<br>
         Full Stack Developer & UI/UX Designer <br>
         Currently learning to walk in ML/DL without falling on my bottom.<br>
-        
 </i><br>
     <a href="https://www.linkedin.com/in/peter-o-maturwe-ab860020a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
