@@ -4,6 +4,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
+    <p>🎤 Karaoke coder: I sing my code to make it run faster. Spoiler alert: it doesn't work, but it makes debugging more entertaining!</p>
     <i>
         I'm Peter.<br>
         Full Stack Developer & UI/UX Designer <br>
